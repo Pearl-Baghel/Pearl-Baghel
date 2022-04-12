@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pearl-Baghel
-- 🌱 I’m currently learning c++ , python and MYSQL
+- 🌱 I’m currently learning web development , graphic designing and python.
 - 💞️ I’m looking to collaborate on minor projects
 - 📫 contact me through - pearlbaghel@gmail.com
 
