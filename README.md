@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning web development , graphic designing and python.
 - 💞️ I’m looking to collaborate on minor projects
 - 📫 contact me through - pearlbaghel@gmail.com
+- Behance - https://www.behance.net/pearlbaghel12
 
 <!---
 Pearl-Baghel/Pearl-Baghel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
