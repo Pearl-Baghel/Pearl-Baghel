@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pearl-Baghel)](https://git.io/streak-stats)
