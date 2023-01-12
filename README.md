@@ -12,4 +12,3 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pearl-Baghel&show icons=true&hide border=true&&count private=true&include all commits=true" />
